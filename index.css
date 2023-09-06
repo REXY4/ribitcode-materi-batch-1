@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600&display=swap');
+
+.mengecilkan-padding {
+    padding-left: 110px;
+}
+
+.title {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 80px;
+    font-weight: 600;
+    letter-spacing: 0em;
+    color: #2D2D2D;
+    width: 557px;
+    height: 180px;
+}
+
+.paragraft {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: justify;
+    width: 557px;
+    height: 216px;
+}
+
+#button-resume {
+    width: 208px;
+    height: 47px;
+    border-radius: 2px;
+    background-color: #FF6464;
+}
+
+.nama {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    letter-spacing: 0em;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    text-decoration: underline;
+}
+
+.profesi {
+    font-family: 'Epilogue', sans-serif;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.icon:hover {
+    transform: scale(1.1);
+}
+
+.link-button {
+    margin-right: 20px;
+}
